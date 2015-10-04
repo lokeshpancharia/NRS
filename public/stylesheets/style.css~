@@ -1,0 +1,21 @@
+
+}
+
+#content {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+background-color:white;
+}
+#nrs{
+		background-color:white;
+    height:100px;
+    width:1330px;
+	border-radius:170px;
+}
+#loc{
+	background-color:white;
+    height:200px;
+    width:730px;
+	border-radius:170px;
+}

@@ -47,9 +47,7 @@ Select Category (money wise)&nbsp&nbsp&nbsp
 
 
 
-<p><b><footer>
-<p><a href="map.html">Map</a></p>
-<p>Click the button to get your coordinates.</p>
+<p><b><footer><p>Click the button to get your coordinates.</p>
 
 <button onclick="getLocation()">Try It</button>
 
